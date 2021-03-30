@@ -1,0 +1,58 @@
+2021-03-30 16:18:45,612 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-03-30 16:18:45,612 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2021-03-30 16:18:45,612 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2021-03-30 16:18:45,612 INFO o.a.j.JMeter: Setting JMeter property: jmeter.save.saveservices.output_formate=xml
+2021-03-30 16:18:45,627 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
+2021-03-30 16:18:45,627 INFO o.a.j.JMeter: Version 5.4.1
+2021-03-30 16:18:45,627 INFO o.a.j.JMeter: java.version=1.8.0_241
+2021-03-30 16:18:45,627 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2021-03-30 16:18:45,627 INFO o.a.j.JMeter: os.name=Windows 10
+2021-03-30 16:18:45,627 INFO o.a.j.JMeter: os.arch=amd64
+2021-03-30 16:18:45,627 INFO o.a.j.JMeter: os.version=10.0
+2021-03-30 16:18:45,627 INFO o.a.j.JMeter: file.encoding=Cp1252
+2021-03-30 16:18:45,627 INFO o.a.j.JMeter: java.awt.headless=true
+2021-03-30 16:18:45,627 INFO o.a.j.JMeter: Max memory     =1073741824
+2021-03-30 16:18:45,627 INFO o.a.j.JMeter: Available Processors =12
+2021-03-30 16:18:45,627 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-03-30 16:18:45,627 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-03-30 16:18:45,627 INFO o.a.j.JMeter: JMeterHome=C:\Users\my\Tools\BlanceLoadTesting
+2021-03-30 16:18:45,627 INFO o.a.j.JMeter: user.dir  =C:\Users\my\Tools\BlanceLoadTesting\bin
+2021-03-30 16:18:45,627 INFO o.a.j.JMeter: PWD       =C:\Users\my\Tools\BlanceLoadTesting\bin
+2021-03-30 16:18:45,855 INFO o.a.j.JMeter: IP: 192.168.1.12 Name: DESKTOP-7RQMP4R FullName: 192.168.1.12
+2021-03-30 16:18:45,859 INFO o.a.j.s.FileServer: Default base='C:\Users\my\Tools\BlanceLoadTesting\bin'
+2021-03-30 16:18:45,859 INFO o.a.j.s.FileServer: Set new base='C:\Users\my\Tools\BlanceLoadTesting\bin\..\BluecrossJMX'
+2021-03-30 16:18:45,936 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2021-03-30 16:18:45,949 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2021-03-30 16:18:45,952 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2021-03-30 16:18:45,956 INFO o.a.j.s.SaveService: Loading file: ..\BluecrossJMX\bluecrossPagesLoadTest.jmx
+2021-03-30 16:18:46,002 INFO o.a.j.JMeter: Creating summariser <summary>
+2021-03-30 16:18:46,006 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2021-03-30 16:18:46,026 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-03-30 16:18:46,026 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-03-30 16:18:46,029 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2021-03-30 16:18:46,029 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2021-03-30 16:18:46,203 INFO o.a.j.JMeter: Running test (1617101326203)
+2021-03-30 16:18:46,228 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2021-03-30 16:18:46,228 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2021-03-30 16:18:46,228 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2021-03-30 16:18:46,228 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2021-03-30 16:18:46,231 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2021-03-30 16:18:46,231 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2021-03-30 16:18:46,232 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2021-03-30 16:18:46,234 INFO o.a.j.p.j.s.JUnitSampler: Trying to find constructor with one String parameter returned error: bluecrossPackageTest.BlueCrossPagesLoadTest.<init>(java.lang.String)
+2021-03-30 16:18:46,238 INFO o.a.j.p.j.s.JUnitSampler: Trying to find constructor with one String parameter returned error: bluecrossPackageTest.BlueCrossPagesLoadTest.<init>(java.lang.String)
+2021-03-30 16:18:46,238 INFO o.a.j.p.j.s.JUnitSampler: Trying to find constructor with one String parameter returned error: bluecrossPackageTest.BlueCrossPagesLoadTest.<init>(java.lang.String)
+2021-03-30 16:18:46,238 INFO o.a.j.p.j.s.JUnitSampler: Trying to find constructor with one String parameter returned error: bluecrossPackageTest.BlueCrossPagesLoadTest.<init>(java.lang.String)
+2021-03-30 16:18:46,238 INFO o.a.j.p.j.s.JUnitSampler: Trying to find constructor with one String parameter returned error: bluecrossPackageTest.BlueCrossPagesLoadTest.<init>(java.lang.String)
+2021-03-30 16:18:46,240 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2021-03-30 16:18:46,240 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2021-03-30 16:18:46,240 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2021-03-30 16:18:46,240 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2021-03-30 16:20:30,078 INFO o.a.j.r.Summariser: summary +      2 in 00:01:44 =    0.0/s Avg: 24224 Min: 22891 Max: 25558 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2021-03-30 16:22:00,440 INFO o.a.j.r.Summariser: summary +      2 in 00:01:30 =    0.0/s Avg: 20068 Min: 19386 Max: 20751 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2021-03-30 16:22:00,440 INFO o.a.j.r.Summariser: summary =      4 in 00:03:14 =    0.0/s Avg: 22146 Min: 19386 Max: 25558 Err:     0 (0.00%)
+2021-03-30 16:22:42,299 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2021-03-30 16:22:42,299 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2021-03-30 16:22:42,299 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2021-03-30 16:22:42,299 INFO o.a.j.r.Summariser: summary +      1 in 00:00:42 =    0.0/s Avg: 19053 Min: 19053 Max: 19053 Err:     0 (0.00%) Active: 0 Started: 1 Finished: 1
+2021-03-30 16:22:42,299 INFO o.a.j.r.Summariser: summary =      5 in 00:03:56 =    0.0/s Avg: 21527 Min: 19053 Max: 25558 Err:     0 (0.00%)
